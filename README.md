@@ -37,8 +37,8 @@ I'm a passionate developer with a strong focus on building scalable and efficien
 
 ## Connect with Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/avinashnaikkethavath)
-- **Email**: [your.email@example.com](mailto:kethavathavinashnaik@gmail.com)
+- **LinkedIn**: [Avinash Kethavath](https://www.linkedin.com/in/avinashnaikkethavath)
+- **Email**: [kethavathavinashnaik@gmail.com](mailto:kethavathavinashnaik@gmail.com)
 
 ## Blog Posts
 
